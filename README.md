@@ -17,13 +17,13 @@ Tic Tac Toe là một trò chơi kinh điển dành cho hai người chơi. Tron
 ### 1. Biên dịch chương trình
 Sử dụng trình biên dịch GCC để biên dịch mã nguồn:
 ```bash
-gcc tic_tac_toe.c -o tic_tac_toe
+gcc ticTacToe.c -o ticTacToe
 ```
 
 ### 2. Chạy chương trình
 Chạy tệp thực thi vừa tạo:
 ```bash
-./tic_tac_toe
+./ticTacToe
 ```
 
 ## Cách chơi
